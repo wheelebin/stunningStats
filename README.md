@@ -20,7 +20,7 @@ Customizable statistics that look good!
 </script>
 ```
 
-2. 
+2. Javascript
 ```javascript
 function init() {
 	createBar("Bar one", "#005F6B");

@@ -32,6 +32,7 @@ function init() {
 
 	setInterval(function() {
 		var dummyData = dummy();
+		// Data goes here, replace dummyData with real data
 		updateBar(dummyData.name, dummyData.value);
 		animateBars();
 	}
@@ -40,3 +41,5 @@ function init() {
 
 init();
 ```
+
+[[http://i.imgur.com/rnrcMc8.gif|alt=octocat]]

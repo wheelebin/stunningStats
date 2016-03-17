@@ -19,7 +19,6 @@ Customizable statistics that look good!
 	// Code goes here
 </script>
 ```
-
 2. Javascript
 ```javascript
 function init() {

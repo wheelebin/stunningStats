@@ -11,7 +11,7 @@ Customizable statistics that look good!
 	4. Run init
 
 ### Example
-** Html & Canvas **
+Html & Canvas
 ```html
 <canvas id="canvas" width=500 height=500></canvas>
 <script src="script.js"></script>
@@ -20,7 +20,7 @@ Customizable statistics that look good!
 </script>
 ```
 
-** Javascript **
+Javascript
 ```javascript
 function init() {
 	createBar("Bar one", "#005F6B");

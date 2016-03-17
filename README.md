@@ -42,4 +42,5 @@ function init() {
 init();
 ```
 
+### Default statistics
 ![My image](https://camo.githubusercontent.com/3a530f564a42e4bd1463870c769807b52a15b354/687474703a2f2f692e696d6775722e636f6d2f726e72634d63382e676966)

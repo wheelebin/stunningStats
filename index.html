@@ -1,0 +1,29 @@
+<html>
+<head>
+	<style>
+		
+	</style>
+</head>
+<body>
+	<canvas id="canvas" width=500 height=500></canvas>
+	<script src="script.js"></script>
+	<script>
+		function init() {
+			createBar("Bar one", "#005F6B");
+			createBar("Bar two", "#008C9E");
+			createBar("Bar three", "#005F6B");
+			createBar("Bar four", "#008C9E");
+			animateBars();
+
+			var interval = setInterval(function() {
+				var dummyData = dummy();
+				updateBar(dummyData.name, dummyData.value);
+				animateBars();
+			}
+			, 1000);
+		}
+
+		init();
+	</script>
+</body>
+</html>

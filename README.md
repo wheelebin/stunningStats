@@ -8,6 +8,7 @@ Customizable statistics that look good!
 		* Add bars by running the function "createBar" passing throught the required parameters
 		* Run the function "animateBars"
 		* Create an interval, run the "updateBar" function, set the interval
+		* Create an instance of dummyData if you want some data to check what it looks like
 	4. Run init
 
 ### Example
